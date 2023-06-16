@@ -2,10 +2,11 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-size: cover;
-  background-image: url('mw2.gif');  
+  background-image: (mw2.gif);
+  background-repeat: norepeat;
   background-attachment: fixed;
-  background-repeat: no-repeat;
+  
+
 }
 
 header {
