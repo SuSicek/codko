@@ -47,3 +47,13 @@ footer {
   padding: 10px;
   text-align: center;
 }
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 100px;
+  width: 223px;
+}
