@@ -23,7 +23,7 @@ h1 {
 h2{
     font-size: 60px
     padding: 150px;
-    font-color:  white;
+    font-color:  "white";
 }
 nav ul {
   list-style-type: none;
