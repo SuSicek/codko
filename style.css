@@ -48,12 +48,12 @@ footer {
   text-align: center;
 }
 
-.logo {
+logo {
   display: flex;
   align-items: center;
 }
 
-.logo img {
+logo img {
   height: 100px;
   width: 223px;
 }
