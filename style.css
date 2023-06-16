@@ -2,11 +2,10 @@
 
 body {
   font-family: Arial, sans-serif;
+  background-image: url("mw2.gif");
   background-size: cover;
-  background-image: (mw2.gif);
-  background-repeat: norepeat;
+  background-repeat: no-repeat;
   background-attachment: fixed;
-
   
 
 }
@@ -50,12 +49,12 @@ footer {
   text-align: center;
 }
 
-logo {
+.logo {
   display: flex;
   align-items: center;
 }
 
-logo img {
+.logo img {
   height: 100px;
   width: 223px;
 }
