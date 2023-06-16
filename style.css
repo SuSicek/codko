@@ -1,0 +1,48 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  background-size: cover;
+  background-image: url('mw2.gif');  
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 80px;
+}
+h1 {
+  margin-bottom: 50px;
+}
+
+h2{
+    font-size: 60px
+    padding: 150px;
+    font-color:  white;
+}
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
